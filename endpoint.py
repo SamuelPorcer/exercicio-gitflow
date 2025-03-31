@@ -1,1 +1,1 @@
-print('Vers∆o 2 do endpoint') 
+print('Vers„o 1 e 2 do endpoint')
