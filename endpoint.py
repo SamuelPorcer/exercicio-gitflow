@@ -1,1 +1,1 @@
-print('Novo endpoint para exemplo') 
+print('Vers∆o 1 e 2 do endpoint') 
