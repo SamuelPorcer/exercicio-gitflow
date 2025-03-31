@@ -17,5 +17,5 @@ jobs:
         password: ${{ secrets.EMAIL_PASSWORD }}
         subject: "Build Status - exercicio-gitflow"
         to: fe.dsm.vot.001@gmail.com
-        from: samuel.pregnolatto@fatec.sp.gov.br
+        from: samuelpregnolatto@gmail.com
         body: "Pipeline executado com sucesso no branch ${{ github.ref_name }}!" 
